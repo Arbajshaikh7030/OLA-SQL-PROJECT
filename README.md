@@ -7,6 +7,8 @@ This project analyzes OLA ride booking data using SQL to uncover meaningful busi
 
 The project demonstrates practical SQL skills used in real-world data analytics and business intelligence projects.
 
+
+
 ## 🎯 Objectives
 Analyze successful and cancelled rides
 
@@ -21,6 +23,8 @@ Analyze customer and driver ratings
 Understand payment method usage
 
 Generate business insights using SQL queries
+
+
 
 ## ⚡ SQL Concepts Used
 
@@ -42,7 +46,11 @@ Generate business insights using SQL queries
 
 ✔ Data Exploration Queries
 
+
+
 ## 📊 Business Problems & SQL Queries
+
+
 
 ## Problem 1: Retrieve All Successful Bookings
 
