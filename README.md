@@ -1,7 +1,10 @@
 # OLA-SQL-PROJECT
 ---
 #  🚖 OLA Data Analyst SQL Project
-📌 Project Overview
+
+---
+
+## 📌 Project Overview
 
 ---
 
