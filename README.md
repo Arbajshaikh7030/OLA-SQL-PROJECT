@@ -54,4 +54,4 @@ Generate business insights using SQL queries
 
 ## Problem 1: Retrieve All Successful Bookings
 
-
+![image alt](https://github.com/Arbajshaikh7030/OLA-SQL-PROJECT/blob/02c4f48fa22afd59b6f60e276d34db9550689c05/Screenshot%202026-05-10%20151645.png)
