@@ -55,3 +55,7 @@ Generate business insights using SQL queries
 ## Problem 1: Retrieve All Successful Bookings
 
 ![image alt](https://github.com/Arbajshaikh7030/OLA-SQL-PROJECT/blob/02c4f48fa22afd59b6f60e276d34db9550689c05/Screenshot%202026-05-10%20151645.png)
+
+## Problem 2: Find Average Ride Distance for Each Vehicle Type
+
+![image alt](https://github.com/Arbajshaikh7030/OLA-SQL-PROJECT/blob/deca50bc45513fc5bb3d7cd6588ef7449e6feafc/Screenshot%202026-05-10%20151740.png)
