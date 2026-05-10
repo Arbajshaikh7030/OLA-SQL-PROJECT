@@ -9,23 +9,37 @@ The project demonstrates practical SQL skills used in real-world data analytics 
 
 ## 🎯 Objectives
 Analyze successful and cancelled rides
+
 Measure revenue generated from bookings
+
 Identify customer booking patterns
+
 Compare vehicle performance
+
 Analyze customer and driver ratings
+
 Understand payment method usage
+
 Generate business insights using SQL queries
 
 ## ⚡ SQL Concepts Used
 
 ✔ SELECT Statements
+
 ✔ WHERE Clause
+
 ✔ GROUP BY & ORDER BY
+
 ✔ Aggregate Functions
+
 ✔ Filtering & Sorting
+
 ✔ Business KPI Analysis
+
 ✔ Revenue Calculations
+
 ✔ Customer Behavior Analysis
+
 ✔ Data Exploration Queries
 
 ## 📊 Business Problems & SQL Queries
