@@ -1,7 +1,9 @@
 # OLA-SQL-PROJECT
-
+---
 #  🚖 OLA Data Analyst SQL Project
 📌 Project Overview
+
+---
 
 This project analyzes OLA ride booking data using SQL to uncover meaningful business insights related to ride trends, customer behavior, cancellations, revenue generation, vehicle performance, and payment analysis.
 
@@ -50,7 +52,7 @@ Generate business insights using SQL queries
 
 ## 📊 Business Problems & SQL Queries
 
---
+---
 
 ## Problem 1: Retrieve All Successful Bookings
 
